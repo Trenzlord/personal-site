@@ -18,3 +18,6 @@ git clone https://github.com/Trenzlord/personal-site.git
 ```
 This is it guys, Thank you all 👋🏻
 
+## First look of my portfolio
+<img width="1440" alt="Screen Shot 2022-03-29 at 18 40 04" src="https://user-images.githubusercontent.com/59255005/160650742-b1d14702-7062-4553-8ee7-33cd995c5c0b.png">
+
